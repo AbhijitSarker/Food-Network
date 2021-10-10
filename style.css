@@ -1,0 +1,97 @@
+body {
+  font-family: "Rubik", sans-serif;
+  margin: 0;
+}
+#sec-1 img {
+  width: 100%;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+#sec-2 {
+  margin-left: 50px;
+  margin-top: 90px;
+}
+.flex {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+#half-width-1 {
+  margin-top: 50px;
+
+  padding-left: 20px;
+  padding-bottom: 5%;
+}
+.half-width img {
+  width: 80%;
+  padding-left: 10%;
+}
+h1 {
+  font-size: 50px;
+}
+span {
+  color: orange;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, orange);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+p {
+  padding-left: 30px;
+  padding-right: 20px;
+}
+.sec-3 {
+  background-image: url(/images/Frame\ 56.jpg);
+
+  background-size: contain;
+  margin-bottom: 100px;
+}
+.about-me {
+  text-align: right;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#sec-4 h3 {
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+
+  text-align: center;
+}
+.pp {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.recipie {
+  margin-bottom: 100px;
+}
+.recipie div {
+  width: 30%;
+  margin-left: 3%;
+  box-shadow: 10px 10px 30px royalblue;
+  border-radius: 20px;
+}
+.recipie img {
+  border-radius: 30px;
+  width: 90%;
+  padding: 5%;
+}
+#sec-5 div {
+  width: 33%;
+}
+#sec-6 {
+  text-align: center;
+  background-color: lightslategray;
+  padding-bottom: 150px;
+  padding-top: 70px;
+}
+#sec-5 {
+  text-align: center;
+  margin-bottom: 100px;
+}
